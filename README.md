@@ -6,5 +6,5 @@ This will serve to practice HTML5 & CSS, but also adding JavaScript to a webpage
 
 Hardware specs:  
 Dell PowerEdge 210 ii chassis  
--Intel Core i3-3220  
+-Intel Xeon E3-1275 v2  
 -4Gb memory  
